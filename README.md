@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Vethavetha
-- 👀 I’m interested in ... telegram 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Vethavetha
 
-<!---
-Vethavetha/Vethavetha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Beginner | Exploring the World of Technology
+
+💻 Interested in Technology, AI, Digital Tools & Innovation.
+
+📚 Currently learning GitHub and basic coding.
+
+🚀 My goal is to learn something new every day and build useful projects.
+
+🤝 Open to learning and collaborating with beginners.
+
+⚡ Fun fact: Every expert was once a beginner!
+
+Thanks for visiting my GitHub profile! ❤️
